@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+Access the application here  - https://shift-client-app.herokuapp.com/
+
+Where default Credentials are
+
+Email – anil@gmail.com
+Pass – anil1234
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
